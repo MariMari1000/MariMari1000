@@ -9,7 +9,7 @@
 <body>
 
 <!-- Header -->
-<h1>Marijana Marinovic</h1>
+<h1>MariMari1000</h1>
 <p>Email: <a href="mailto:marijana.marinovich@gmail.com">marijana.marinovich@gmail.com</a> | Phone: 0831854672 | LinkedIn: <a href="https://www.linkedin.com/in/marijana-marinovic-908253113/">Marijana Marinovic</a></p>
 
 <!-- About Me -->
