@@ -9,7 +9,7 @@
 
 <!-- Header -->
 <h1>Marijana Marinovic</h1>
-<p>Email: <a href="mailto:marijana.marinovich@gmail.com">📧</a> | LinkedIn: <a href="https://www.linkedin.com/in/marijana-marinovic-908253113/" target="_blank">LinkedIn</a></p>
+<p>Email: <a href="mailto:marijana.marinovich@gmail.com">📧</a> | LinkedIn: <span>🔗</span></p>
 
 <!-- About Me -->
 <h2>About Me</h2>
