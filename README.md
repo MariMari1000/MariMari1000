@@ -1,4 +1,3 @@
-### Hi there 👋
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,12 +8,12 @@
 <body>
 
 <!-- Header -->
-<h1>MariMari1000</h1>
-<p>Email: <a href="mailto:marijana.marinovich@gmail.com">marijana.marinovich@gmail.com</a> | Phone: 0831854672 | LinkedIn: <a href="https://www.linkedin.com/in/marijana-marinovic-908253113/">Marijana Marinovic</a></p>
+<h1>Marijana Marinovic</h1>
+<p>Email: <a href="mailto:marijana.marinovich@gmail.com">📧</a> | LinkedIn: <a href="https://www.linkedin.com/in/marijana-marinovic-908253113/" target="_blank">LinkedIn</a></p>
 
 <!-- About Me -->
 <h2>About Me</h2>
-<p>Skilled back-end developer with a passion for solving complex problems. Currently pursuing a Higher Diploma in Software Development at Atlantic Technological University. Constantly learning new technologies and frameworks to stay ahead in the tech landscape. Excited to contribute to innovative projects and collaborate with like-minded individuals.</p>
+<p>👩‍💻 Skilled back-end developer with a passion for solving complex problems. Currently pursuing a Higher Diploma in Software Development at Atlantic Technological University. Constantly learning new technologies and frameworks to stay ahead in the tech landscape. Excited to contribute to innovative projects and collaborate with like-minded individuals.</p>
 
 <!-- Education -->
 <h2>Education</h2>
@@ -46,7 +45,7 @@ Networking: Wireshark, Cisco Packet Tracer, Apache</p>
 
 <!-- Interests -->
 <h2>Interests</h2>
-<p>Passionate about music production, piano playing, and choir singing.</p>
+<p>🎶 Passionate about music production, piano playing, and choir singing.</p>
 
 <!-- References -->
 <h2>References</h2>
@@ -54,19 +53,3 @@ Networking: Wireshark, Cisco Packet Tracer, Apache</p>
 
 </body>
 </html>
-
-
-<!--
-**MariMari1000/MariMari1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
